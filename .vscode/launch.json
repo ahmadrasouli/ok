@@ -14,7 +14,7 @@
             "name": "ok (profile mode)",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "profile"
+            "flutterMode": "profile",
         },
         {
             "name": "ok (release mode)",
