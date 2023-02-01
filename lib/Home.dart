@@ -366,7 +366,7 @@ Widget generateItems (Products products , BuildContext context){
     ),
     child: InkWell(
       onTap: (){
-        Navigator.of(context).push(MaterialPageRoute(builder: (context) => per_product()));
+        // Navigator.of(context).push(MaterialPageRoute(builder: (context) => per_product()));
       },
       child: Center(
         child: Column(
